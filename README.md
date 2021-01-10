@@ -1,0 +1,2 @@
+# NLP_Sentiment_Analysis
+In my study where I used the Womens Clothing E-Commerce Reviews.csv data set, I first made the necessary cleaning on the data. After doing tokenization, noise removal, lexicon normalization, reassembling the data in one of the columns I impacted, and applying Vectorization and TF-IDF, I selected whichever one of the machine learning algorithms had high accuracy and added it to my model.
